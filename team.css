@@ -16,10 +16,11 @@ body{
 }
 .wrapper{
     background: #fff;
-    width: 870px;
+    width: 500px;
     border-radius: 15px;
     padding: 20px;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.4);
+    margin-top: 10%;
 }
 h2{
     text-align: center;
@@ -29,6 +30,9 @@ hr{
     margin: 10px auto;
 }
 .members{
+    display: flex;
+}
+.members2{
     display: flex;
 }
 .team-mem{
