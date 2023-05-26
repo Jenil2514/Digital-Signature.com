@@ -1,0 +1,7 @@
+Step1: Start the line with "//"
+
+Step2: Write your question for example: "//how to get the stock data of Tesla in python?"
+
+Step3: Once you press the "?" question mark, Blackbox will return the code snippet
+
+Step4: Press Tab to keep the suggested code snippet

@@ -1,0 +1,43 @@
+<div class="menu">
+        <img src="Logo.jpeg" class="img1">
+    </div>
+    <div class="head">
+
+    
+    <center>
+        <h1>Discrete Mathematics Project</h1>
+    </center>
+
+    <ul>
+        <h3>Assigned By :- </h3>
+        <li>Professor Manish Gupta</li>
+    </ul>
+</div>
+
+
+css :
+
+.img1{
+    margin: 0.5cm;
+    height: 1.5cm;
+    width: 1.5cm;
+    padding: 0;
+}
+h3{
+   color: white;
+    padding-left: 0cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+}
+ul{
+    padding-left: 2cm;
+    margin-top: 2cm;
+    font-size: Larger;
+}
+li{
+    padding-left: 1cm;
+}
+
+/* div.head{
+    background-image: url(back.jpg);
+} */

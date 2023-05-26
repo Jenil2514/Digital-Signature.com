@@ -1,0 +1,7 @@
+---------------------Java-----------
+SHort Hand If...Else
+variable = (condition) ? expressionTrue :  expressionFalse;
+--------------------------------------------------------------
+Set Initial value OF array 
+Int A[]=new int[10];
+--------------------------------------------------------------
