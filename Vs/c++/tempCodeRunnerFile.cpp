@@ -1,2 +1,0 @@
-
-int balance=0;
